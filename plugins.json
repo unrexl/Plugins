@@ -1,5 +1,11 @@
 [
     {
+        "name": "Bypassed Fly",
+        "id": "bypassed-fly",
+        "file": "bypassed-fly.lua",
+        "description": "Platform-based CFrame fly with touch kill, speed control."
+    },
+    {
         "name": "Example Plugin",
         "id": "example-plugin",
         "file": "example.lua",
