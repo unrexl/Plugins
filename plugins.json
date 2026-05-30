@@ -2,7 +2,7 @@
     {
         "name": "Test Plugin",
         "id": "example-plugin",
-        "file": "plugins/example.lua",
+        "file": "example.lua",
         "description": "Simple Testing"
     }
 ]
