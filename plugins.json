@@ -1,8 +1,8 @@
 [
     {
-        "name": "Test Plugin",
+        "name": "Example Plugin",
         "id": "example-plugin",
         "file": "example.lua",
-        "description": "Simple Testing"
+        "description": "A sample plugin to demonstrate the plugin system."
     }
 ]
